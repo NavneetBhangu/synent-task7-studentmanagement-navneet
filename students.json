@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "102",
+        "Name": "Manvir Kaur",
+        "Age": "20",
+        "Course": "Btech"
+    },
+    {
+        "ID": "101",
+        "Name": "Navneet",
+        "Age": "21",
+        "Course": "btech"
+    },
+    {
+        "ID": "001",
+        "Name": "Harman",
+        "Age": "21",
+        "Course": "Btech"
+    },
+    {
+        "ID": "16",
+        "Name": "Mini",
+        "Age": "22",
+        "Course": "BCA"
+    }
+]
